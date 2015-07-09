@@ -1,0 +1,243 @@
+"original address","latitude","longitude"
+"ADDRESS",40.447337,-3.707018
+"Montello Ave. and Morse St., NE",38.903638,-76.989558
+"Trinidad Ave., at Childress St., NE",38.906521,-76.983947
+"Anacostia River (Both Banks) between John Phillip Sousa & 11th St. Bridges, SE",,
+"7th and 9th Sts., to G and H Sts., SW",38.231603,-85.766942
+"Luzon Ave., between Van Buren and 13th Sts., NW",12.667746,124.019583
+"14th St. and Tennessee Ave., NE",38.89553,-76.985504
+"23rd & S Sts., NW",38.914083,-77.050625
+"East Capitol St., between Burns & B Sts., SE",,
+"11th and Monroe Sts., NW",41.055224,-86.610369
+"14th and Taylor Sts., NW",42.374334,-83.102374
+"17th and Gales Sts., NE",38.898112,-76.97967
+"24th St. and Rand Pl., NE",38.913349,-76.972165
+"907 Westminster St., NW",38.914845,-77.024501
+"Missouri Ave., between Madison Ave. & 7th Sts., NW",37.964253,-91.831833
+"Nevada Ave.,Broadbranch Rd.,Chapel Rd.,NW",38.80261,-116.419389
+"Linnean Ave. and Broad Branch Rd., NW",38.958513,-77.065185
+"15th and 16th Sts., to P & Church Sts., NW",,
+"Chevy Chase Parkway,Chevy Chase Parkway,Oliver St.,NW",38.961715,-77.071153
+"14th St., between Underwood St. & Luzon Ave., NW",,
+"9th and 10th Sts., to F and G Sts., NE",38.601407,-90.20803
+"Massachusetts Ave.,36th St.,Garfield St.,NW",,
+"Massachusetts Ave.,35th St.,Fulton,NW",,
+"Massachusetts Ave.,36th St.,Fulton,NW",,
+"Woodley Rd. & 29th St., NW",38.926308,-77.057725
+"Quarry Rd.,18th St.,Harva Rd. St.,NW",,
+"Kalorama Rd., between Columbia Rd. & 19th St., NW",,
+"Columbia Rd.,19th St.,Kalorama Rd.,NW",,
+"New Hampshire Ave.,17th St.,T St.,NW",43.193852,-71.572395
+"New Hampshire Ave.,17th St.,S St.,NW",43.193852,-71.572395
+"Lincoln Rd.,2nd St. ,Channing St.,NE",,
+"6th St., between Evarts & Edgewood Sts., NE",,
+"Lincoln Rd.,4th St.,Franklin St.,NE",,
+"T and 3rd Streets, NW",47.040951,-100.791318
+"Rhode Island Ave.,14th St.,Brentwood Rd.,NE",41.580095,-71.477429
+"Gira Rd. St.,16th St.,Brentwood Rd.,NE",,
+"Bladensburg Rd.,28th St.,Douglas St.,NE",38.939278,-76.933863
+"Bladensburg Rd.,30th St.,Douglas St.,NE",38.939278,-76.933863
+"South Dakota Ave., between 20th & Otis Sts., NE",43.969515,-99.901813
+"South Dakota Ave., between Randolph & 19th Sts., NW",43.969515,-99.901813
+"Michigan Ave.,12th St.,Shephe Rd. St.,NE",42.213976,-83.168516
+"New Hampshire Ave.,Sherman Ave.,Park Place,NW",43.193852,-71.572395
+"Mt. Pleasant St.,17th St.,Lamont St.,NW",32.832322,-79.828426
+"Rock Creek Church Rd.,5th St.,Quincy St.,NW",,
+"Kansas Ave.,13th St.,Quincy St.,NW",39.011902,-98.484246
+"Ogden St.,14th St.,Oak St.,NW",41.223,-111.97383
+"16th and Lamont Sts., NW",38.930443,-77.036467
+"Georgia Ave.,9th St.,Upshur St.,NW",,
+"49th St. and Fordham Rd., south of Quebec St., NW",,
+"Massachusetts Ave.,47th St. ,Upton St.,NW",,
+"Massachusetts Ave.,50th St.,Yuma St.,NW",,
+"L St., between 9th and 11th Sts., SE",29.961126,30.905346
+"Wisconsin Ave. and R St., NW",38.907868,-77.063583
+"Hobart Pl. and Harvard St., west of Georgia Ave., NW",-42.881903,147.323815
+"Manning Place and Macomb Streets, south of Sherier",,
+"Kalmia and Jonquil Sts., NW",,
+"Volta Pl. & Q St., to 33rd & 34th Sts., NW",,
+"31st and W Sts., to Park and Hillcrest Drs., SE",,
+"west of S. Capitol St., between G and K Sts., SW",38.902599,-77.02862
+"Chesapeake St., east of Linnean Ave., NW",36.768209,-76.287493
+"Arkansas Ave.,13th St.,Emerson St.,NW",35.20105,-91.831833
+"Arkansas Ave.,Georgia Ave.,Farragut St.,NW",35.20105,-91.831833
+"Illinois Ave.,9th St.,Ingraham St.,NW",41.898653,-87.844608
+"Illinois Ave.,9th St.,Gallatin St.,NW",41.898653,-87.844608
+"Georgia Ave. and Madison St., NW",33.659235,-84.439212
+"New Hampshire Ave.,3rd St.,Decatur St.,NW",43.193852,-71.572395
+"New Hampshire Ave., between 4th & Buchanan Sts., NW",43.193852,-71.572395
+"Kansas Ave.,5th St.,Farragut St.,NW",33.892084,-87.52617
+"New Hampshire Ave.,7th St.,Taylor St.,NW",43.193852,-71.572395
+"18th St. and Argyle Terr., NW",38.944801,-77.04127
+"Park Rd. and 19th St. NW",37.71954,-97.38967
+"34th St., between Ordway St. & Reno Rd., NW",,
+"Alaska Ave.,13th St.,Holly St.,NW",55.124144,-131.572458
+"Western Ave and Pinhurst Circle, NW",38.975614,-77.066752
+"Plymouth St. & Parkside Ln., NW",38.987898,-77.046594
+"Plymouth Street at Sudbury Lane, NW",38.986733,-77.044766
+"Kansas Ave., between Underwood and Tuckerman Sts., NW",39.011902,-98.484246
+"Riggs Road & Nicholson St., NE",38.960731,-76.998884
+"Ingraham and Hamilton Sts., to 2nd & 3rd Sts., NW",,
+"13th and 14th Sts., to Hamilton & Gallatin Sts., NW",,
+"Shepherd St. and Michigan Ave., NE",38.939403,-76.989401
+"New Hampshire Ave.,8th St.,Randolph St.,NW",43.193852,-71.572395
+"New Hampshire Ave.,21st St.,M St.,NW",38.906904,-77.046161
+"25th and N Sts., NW",38.907138,-77.053292
+"7th St., south of Alabama Ave., SE",38.843527,-76.995785
+"Kansas Ave., between Gallatin & 4th Sts., NW",39.011902,-98.484246
+"Kansas Ave.,3rd St.,Ingraham St.,NW",33.888559,-87.522085
+"New Hampshire Ave., between Ingraham & 1st Sts., NW",43.193852,-71.572395
+"Kansas Ave., between Longfellow & 2nd Sts., NW",39.011902,-98.484246
+"Military Rd., between Belt Rd. and 42nd St., NW",,
+"Reno Rd.,39th St.,Jenifer St.,NW",39.529633,-119.813803
+"Reno Rd.,38th St.,Huntington St. ,NW",39.529633,-119.813803
+"Wisconsin Ave.,42nd St.,Fessenden St.,NW",43.78444,-88.787868
+"Western Ave.,48th St.,Ellicott St.,NW",,
+"Livingston St., between 41st St. and Western Ave., NW",,
+"Van Buren St., between 3rd and 4th Sts., NW",,
+"Van Buren and Sheridan Sts., to 3rd & 5th Sts., NW",,
+"Spring Rd., between Quincy and 9th Sts., NW",,
+"37th St. and Idaho Ave., NW",38.937027,-77.072362
+"32nd & Chesapeake Sts., NW",38.950723,-77.065171
+"east of 39th St. and south of Newark St., NW",38.935699,-77.077194
+"Potomac Ave. and 1st St., SE",38.87195,-77.005977
+"13th and Emerson Sts., NE",42.107353,-102.878358
+"New Hampshire Ave., 1st St. and Chillum Pl., NE",43.193852,-71.572395
+"Michigan Ave.,18th St.,Bunker Hill Rd.,NE",44.314844,-85.602364
+"4th St. and Blair Rd., NW",38.974513,-77.018032
+"18th and Perry Sts., NE",38.936155,-76.979857
+"Warder St, between Otis and Princeton Pls, NW",,
+"Wisconsin Ave.,39th St. ,Veazy St.,NW",43.78444,-88.787868
+"Connecticut Ave. and McKinley St., NW",38.964959,-77.07508
+"14th St. and Arkansas Ave., NW",38.943275,-77.032726
+"Glenbrook Rd. & Rockwood Pkwy., NW",38.933546,-77.093435
+"Macomb St., between 34th and 35th Sts., NW",,
+"Park Rd.,Mt. Pleasant St.,Park Rd.,NW",40.095051,-79.510871
+"18th St. & Mills Ave., to Hamlin & Franklin Sts., NE",,
+"1000 Franklin Street, NE",34.043518,-118.475654
+"Douglas St., between Franklin St. and Lincoln Rd., NE",,
+"Georgia Ave. and Euclid St., NW",38.924085,-77.022401
+"14th and Girard Sts., NW",38.925502,-77.032316
+"15th and Girard Sts., NW",38.925325,-77.035444
+"Calvert and 36th Sts., NW",38.922542,-77.070893
+"Calvert St., between 39th and 41st Sts., NW",,
+"48th St., between W and Ashby Sts., NW",,
+"Potomac and Arizona Aves., NW",38.925903,-77.107541
+"First Street and Florida Avenue, NW",26.836077,-81.091489
+"Foxhall Rd. and Q St., NW",38.910556,-77.083994
+"R and Vermont Ave.",33.927323,-118.291966
+"Rhode Island Ave.,9th St.,Q St.,NW",38.911406,-77.024214
+"Rhode Island Ave. and 11th St., NW",38.910946,-77.026928
+"1301 New Jersey Avenue, NW",39.122286,-94.643147
+"New Jersey Ave., between O and P Sts., NW",40.502864,-74.452821
+"Rhode Island Ave.,6th St.,R St.,NW",41.580095,-71.477429
+"49th and Quarles Sts., NE",38.908539,-76.931688
+"East Capitol and Blaine Sts., to 55th St. & 57th Pl., SE",,
+"Blaine St., Brooks & 51st Sts., SE",,
+"Central Ave.,49th St.,East Capitol St.,NE",,
+"Minnesota Ave.,36th St.,Croffut Pl.,SE",46.729553,-94.6859
+"U and V Sts., to 13th & 14th Sts., NW",29.490607,-95.061167
+"North Carolina Ave.,15th St.,Consitution Ave.,NE",35.759573,-79.0193
+"North Carolina Avenue and A Street, NE",38.890608,-76.988306
+"7th St. and N. Carolina Ave., NE",38.887387,-76.996161
+"4th and G Sts., SW",34.172075,-86.857257
+"P St., between 6th and 7th Sts., NW",29.863944,31.327435
+"New York Ave. and 1st St., NW",40.645408,-74.130281
+"10th & French St. NW",38.913337,-77.02599
+"Delaware Ave., between I and M Sts., SW",38.910833,-75.52767
+"Lincoln Rd. and 2nd St., to R and T Sts., NE",,
+"2nd St., between K and I Sts., SE",29.863944,31.327435
+"6th St., between L and M Sts., SE",33.876339,-117.57603
+"Potomac Ave. and K Street, SE",38.878403,-76.990088
+"E St., between 11th and 12th Sts., NE",29.961126,30.905346
+"Tennessee Ave.,14th St.,E St.,NE",36.177183,-86.745825
+"Tennessee Ave.,14th St.,D St.,NE",36.177183,-86.745825
+"14th and Euclid Sts., NW",33.230876,-92.658384
+"Bryant and W Sts., 4th St., NW",37.779212,-122.39929
+"Columbia Rd.,Champlain St.,Euclid St.,NW",,
+"Bryant and Adams Sts., to Lawrence and 19th Sts., NE",,
+"15th & Downing Sts., NE",38.922018,-76.983805
+"South Dakota Ave., Adams and 33rd Sts., NE",43.969515,-99.901813
+"Ft. Lincoln Dr. and 31st Pl., NE",38.924858,-76.959616
+"Potomac Ave.,16th St.,G St.,SE",38.855419,-77.09221
+"Potomac Ave.,17th St.,E St.,SE",38.882112,-76.980958
+"Massachusetts Ave.,17th St.,C St.,SE",38.885738,-76.98041
+"C St., between 14th and 15th Sts. SE",29.863944,31.327435
+"South of South Carolina Avenue and C Street, SE",34.868046,-82.410582
+"13th St., between D and E Sts., SE",38.902599,-77.02862
+"Minnesota Ave., between 22nd & Q Sts., SE",46.729553,-94.6859
+"Naylor Rd., between 22nd & Q Sts., SE",,
+"Alabama Ave., west of 32nd St., SE",33.50211,-86.90548
+"Minnesota Ave.,16th St.,T St.,SE",44.872585,-93.004189
+"Minnesota Avenue and Good Hope Road, SE",38.866642,-76.984395
+"F St. and Virginia Ave., between 1st and 3rd Sts., SE",,
+"42nd St. & Hunt Pl., to 63rd St. & Southern Ave., NE",,
+"Canal St., between M and N Sts., SW",29.863944,31.327435
+"M St. & Fairlawn Ave., to 39th & Nash Sts., SE",,
+"Texas Ave. and C St., SE",38.886561,-76.940561
+"6th St., between New York & Florida Aves., NE",,
+"3030 G St., SE",47.280821,-122.212581
+"Ridge Rd. and Burns St., SE",38.874897,-76.938805
+"3265 S Street, NW",45.644926,-122.651547
+"6th St. and I Sts., SW`",45.449298,-98.49657
+"3rd St. and I Sts., SW",39.789401,-93.565618
+"2500 14th St., NW",39.749828,-105.00359
+"Irving & Georgia Avenue, NW",38.929041,-77.023229
+"Water St., south of M St., SE",43.249097,-81.149424
+"Virginia Ave. and south of M St., SE",39.61359,-77.779699
+"Virginia Ave., Between 12th & M Sts., SE",,
+"Water St., Between 14th & M Sts., SE",,
+"Water & N Sts., east Of 12th st., SE",40.067156,-80.724553
+"New York Ave. and I St., between 10th and 11th Sts., NW",40.712784,-74.005941
+"Potomac Ave SE, 9th Street SE, and M Street SE",38.876914,-76.993753
+"Mt Vernon Pl NW, K St NW, 7th St NW, and 9th St NW",40.912599,-73.837079
+"North Capitol St NW, Lincoln Rd NE, and R St NE",38.912592,-77.008527
+"South Carolina and Pennsylvania Aves., to 7th, 8th and D Sts., SE",33.836081,-81.163724
+"Anacostia River (East Bank) between Railroad & John Phillip Sousa Bridges, SE",,
+"South Capitol Street, I-295, 11th St. & Frederick Douglass Memorial Bridges, SE",,
+"Anacostia River (Both Banks) between John Phillip Sousa & 11th St. Bridges, SE",,
+"22nd St., between Decatur Pl. & S St., NW",,
+"Vermont Ave. & 12th St., north of R St., NW",38.911829,-77.028273
+"Virginia Ave., east side of 6th & D Sts., SW",29.233175,-81.043131
+"New York Ave., between New Jersey Ave. & M Sts., NW",40.712784,-74.005941
+"Vermont Ave. & 11th St., north of S St., NW",38.914557,-77.026632
+"Potomac Ave., between 2nd & R Sts., SW",39.018165,-77.208591
+"above Virginia Ave., between 26th & H Sts., NW",,
+"Southern Ave., between Branch Ave. & Erie St., SE",,
+"Potomac Ave., between Half & Q Sts., SW",39.018165,-77.208591
+"New York Ave., between Florida Ave. & O St., NE",40.712784,-74.005941
+"Rock Creek, between National Zoological Park & Theodore Roosevelt Bridge, NW",,
+"Benning Rd., north of Hanna Pl. & Southern Ave., SE",,
+"41st St., between Fort Davis St. & Fort Davis Pl., SE",,
+"Taylor St., between 8th and 9th Sts., NW",,
+"Martin Luther King Jr. Blvd., between Howard & Summer Rds., SE",,
+"Hayden-Johnson Rec Ctr.",38.85031,-76.985368
+"Potomac Ave. and E Street, SE",38.882748,-76.979411
+"3000 R St., SE",47.281537,-122.207873
+"45th St., Van Ness and Massachusetts Ave., NW",38.940655,-77.089643
+"Anacostia River between Benning Rd. and Railroad Bridge",,
+"Nichols & Southern Aves., SW",,
+"South Capitol & 2nd Sts., SE & SW",38.881617,-77.010407
+"north of Erie St., between Pearson Pl. & 16th St., SE",,
+"4th and I Sts., SW",34.172075,-86.857257
+"Adams Mill and Ontario Rds., NW",38.92602,-77.044276
+"1901 Virginia Ave., between north side of 2nd & E Sts., SW",,
+"2nd St., between M and L Sts., SE",29.863944,31.327435
+"2nd St., between K and L Sts., SE",29.863944,31.327435
+"Davenport and Reno Rd.",38.952097,-77.07152
+"49th and 50th Sts., Brooks Pl., NE",,
+"Benning Rd., C St., and St Louis St. SE",,
+"Douglass Rec Ctr. (Ft. Stanton Park to St. Elizabeth Hospital)",37.519464,-97.012815
+"Pennsylvania Ave., between 8th, 9th St. and South Carolina Ave., SE",,
+"Pennsylvania Ave., east of 8th St., SE",38.884513,-76.994875
+"Pennsylvania Ave., west of 8th and D Sts., SE",38.884079,-76.99497
+"Broad Branch Rd., between Quesada and 33rd Sts., NW",,
+"18th St. and Kalorama Rd., NW",38.919659,-77.041704
+"1800 Anacostia Drive SE",38.869246,-77.000219
+"Mississippi Ave., between 1st St. and Southern Ave., SE",32.354668,-89.398528
+"Mississippi Ave., between 1st St. and Southern Ave., SE",32.354668,-89.398528
+"100 Block of Xenia St SE",38.833199,-77.005286
+"100 Block of Yuma St SE",32.723612,-114.656972
+"100 Block of Xenia St SE",38.833199,-77.005286
+"13th Street and Mississippi Ave SE",38.839815,-76.988508
+"Nebraska Ave., between Fessenden and Chesapeake Sts., NW",41.492537,-99.901813

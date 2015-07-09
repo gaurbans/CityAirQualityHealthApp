@@ -1,0 +1,41 @@
+County.Code,County,Year,Data.Type,AQI.Median,AQI.Max,AQI.Median.Threshold,AQI.Max.Threshold
+10996,"Washington, DC",1995,AQI,58,204,Moderate,Alert
+10997,"Washington, DC",1996,AQI,58,174,Moderate,Unhealthy
+10998,"Washington, DC",1997,AQI,56,210,Moderate,Alert
+10999,"Washington, DC",1998,AQI,58,201,Moderate,Alert
+11000,"Washington, DC",1999,AQI,67,204,Moderate,Alert
+11001,"Washington, DC",2000,AQI,58,201,Moderate,Alert
+11001,"Washington, DC",2001,AQI,62,190,Moderate,Unhealthy
+11001,"Washington, DC",2002,AQI,57,208,Moderate,Alert
+11001,"Washington, DC",2003,AQI,57,204,Moderate,Alert
+11001,"Washington, DC",2004,AQI,56,204,Moderate,Alert
+11001,"Washington, DC",2005,AQI,56,161,Moderate,Unhealthy
+11001,"Washington, DC",2006,AQI,53,204,Moderate,Alert
+11001,"Washington, DC",2007,AQI,53,187,Moderate,Unhealthy
+11001,"Washington, DC",2008,AQI,50,172,Good,Unhealthy
+11001,"Washington, DC",2009,AQI,48,148,Good,SensitiveGroups
+11001,"Washington, DC",2010,AQI,49,161,Good,Unhealthy
+11001,"Washington, DC",2011,AQI,54,162,Moderate,Unhealthy
+11001,"Washington, DC",2012,AQI,55,190,Moderate,Unhealthy
+11001,"Washington, DC",2013,AQI,47,104,Good,SensitiveGroups
+11001,"Washington, DC",2014,AQI,44,129,Good,SensitiveGroups
+31084,"Los Angeles, CA",1995,AQI,103,217,SensitiveGroups,Alert
+31085,"Los Angeles, CA",1996,AQI,93,214,Moderate,Alert
+31086,"Los Angeles, CA",1997,AQI,88,212,Moderate,Alert
+31087,"Los Angeles, CA",1998,AQI,74,222,Moderate,Alert
+31088,"Los Angeles, CA",1999,AQI,95,182,Moderate,Unhealthy
+31089,"Los Angeles, CA",2000,AQI,93.5,213,Moderate,Alert
+31090,"Los Angeles, CA",2001,AQI,97,208,Moderate,Alert
+31091,"Los Angeles, CA",2002,AQI,97,212,Moderate,Alert
+31092,"Los Angeles, CA",2003,AQI,90,215,Moderate,Alert
+31093,"Los Angeles, CA",2004,AQI,87,208,Moderate,Alert
+31094,"Los Angeles, CA",2005,AQI,80,211,Moderate,Alert
+31095,"Los Angeles, CA",2006,AQI,79,206,Moderate,Alert
+31096,"Los Angeles, CA",2007,AQI,78,210,Moderate,Alert
+31097,"Los Angeles, CA",2008,AQI,80,207,Moderate,Alert
+31098,"Los Angeles, CA",2009,AQI,76,203,Moderate,Alert
+31099,"Los Angeles, CA",2010,AQI,74,174,Moderate,Unhealthy
+31100,"Los Angeles, CA",2011,AQI,76,203,Moderate,Alert
+31101,"Los Angeles, CA",2012,AQI,78,192,Moderate,Unhealthy
+31102,"Los Angeles, CA",2013,AQI,74,172,Moderate,Unhealthy
+31103,"Los Angeles, CA",2014,AQI,77,187,Moderate,Unhealthy

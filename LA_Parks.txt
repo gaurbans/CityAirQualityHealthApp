@@ -1,0 +1,257 @@
+La Parks Address,Latitude,Longitude
+6th & Gladys St., Los Angeles, CA 90021,34.040303,-118.242083
+4800 S. Hoover, Los Angeles, CA 90037,33.999626,-118.287096
+East of Reseda Between Sesnon & Rinaldi,FAILED,FAILED
+Mulholland and Alizondo, Woodland Hills, CA 91364,34.151819,-118.606711
+21st and Meyler, San Perdo, CA 90731,33.725186,-118.296805
+Malvern Avenue & Alvarado Terrace, Los Angeles, CA 90006,34.044959,-118.281785
+2830 Lancaster, Los Angeles, CA 90033,34.056815,-118.194934
+2929 W. 48th St., Los Angeles, CA 90043,34.000044,-118.325212
+3601 Gaffey St., San Pedro, CA 90731,33.712382,-118.294145
+601 Clubview Dr., Los Angeles, CA 90024,34.072861,-118.429432
+5566 Via Marisol, Los Angeles, CA 90042,34.104356,-118.186043
+4371 Multnomah St. Los Angeles, Ca 90032,34.069712,-118.189704
+5790 Compton Ave., Los Angeles, CA 90011,33.990292,-118.247712
+1300 Dodson Ave., San Pedro, CA 90732,33.732494,-118.311856
+O'farrell and Bandini San Pedro, CA 90731,33.736062,-118.292246
+4800 Hollywood Blvd., Los Angeles, CA 90027,34.101528,-118.294334
+13150 Sesnon Blvd., Granada Hills, CA 91344,34.30739,-118.510447
+North of West Hills Recreation Center Canoga Park, CA 91307,34.194541,-118.619945
+826 Lucile Ave., Los Angeles, CA 90026,34.084037,-118.282928
+2413 Second Ave., Los Angeles, CA 90018,34.034814,-118.31887
+Angelo Dr. & Baywood St., Bel Air, CA 90077,34.118041,-118.442868
+2599 Beverwil Dr., Los Angeles, CA 90034,34.039429,-118.399181
+2900 N. Vermont Ave., Los Angeles, CA 90027,34.123772,-118.297044
+929 Academy Rd., Los Angeles, CA 90012,34.0809,-118.237895
+Los Feliz Blvd., Los Angeles, CA 90027,34.111671,-118.288664
+15174 San Fernando Mission Rd., Mission Hills, CA 91345,34.272753,-118.462257
+13306 Branford St., Arleta, CA 91331,34.232212,-118.422611
+461 Almaden Court, Bel Air, CA 90077,34.11831,-118.444175
+3200 Canyon Dr., Hollywood, CA 90068,34.127364,-118.311033
+Browns Canyon Rd., Chatsworth, CA 91311,34.293557,-118.592976
+Via Marisol and Arbolada, Los Angeles, CA 90042,34.096029,-118.184982
+Meadow Rd. (East Side of Dodger Stadium), Los Angeles, CA 90012,34.065335,-118.243891
+4900 Beverly Blvd., Los Angeles, CA 90004,34.076214,-118.315726
+200 Linnie Canal and Venice, Venice, CA,33.985047,-118.469483
+Laurel Canyon Blvd. & Aztec St., Mission Hills, CA 91342,34.302376,-118.36957
+511 W. Ave. 46, Los Angeles, CA 90065,34.102008,-118.21116
+McCarthy Vista and Wilshire Blvd., Los Angeles, CA 90048,34.063398,-118.365233
+24220 1/2 Clarington, Los Angeles, CA 91304,34.207865,-118.652902
+Vista Del Valle, Los Angeles, CA 90027,34.130159,-118.293518
+4222 Central Ave., Los Angeles, CA 90011,34.006817,-118.256106
+5201 Zoo Dr., Los Angeles, CA 90027,34.155838,-118.301666
+22525 Chase St., Canoga Park, CA 91304,34.223146,-118.617937
+9301 Valley Circle Blvd., Chatsworth, CA 91311,34.239764,-118.629201
+22300 Chatsworth St., Chatsworth, CA 91311,34.264439,-118.611366
+22360 Devonshire St., Chatsworth, CA 91311,34.257829,-118.614378
+West Side of Stadium Way, Near Grace E. Simons Lodge, Los Angeles, CA 90012,34.065335,-118.243891
+1950 W. 54th St., Los Angeles, CA 90062,33.99322,-118.312607
+2551 Motor Ave., Los Angeles, CA 90064,34.045,-118.407693
+4165 Chevy Chase Dr., Los Angeles, CA 90039,34.133858,-118.267304
+76th St. at Gramercy, Los Angeles, CA,34.052234,-118.243685
+200 N. Main St., Los Angeles, CA 90012,34.053138,-118.242524
+4800 Cleland Ave., Los Angeles, CA 90042,34.112961,-118.212601
+7449 Melba Ave., West Hills, CA 91307,34.205289,-118.634434
+12601 Mulholland Dr., Los Angeles, CA 90210,34.129519,-118.407816
+1000 Hanley Ave., Los Angeles, CA 90049,34.076793,-118.489165
+4730 Crystal Springs Dr., Los Angeles, CA 90027,34.135369,-118.282042
+5070 Slauson Ave., Los Angeles, CA 90056,33.987543,-118.366438
+1287 W. 38th Place, Los Angeles, CA 90037,34.017345,-118.299902
+2630 Pepper Ave., Los Angeles, CA 90065,34.089555,-118.225311
+Arminta St. and Golden State Fwy., Los Angeles, CA 91352,34.230157,-118.352039
+1350 N. Cherokee Ave., Los Angeles, CA 90025,34.095593,-118.33526
+314 Beverly Glen, Los Angeles, CA 90077,34.084176,-118.43496
+17141 Nordhoff St., Northridge, CA 91325,34.235797,-118.506931
+6660 Esplanade Place, Playa Del Rey , CA 90293,33.960474,-118.450097
+15100 Erwin St., Van Nuys, CA 91411,34.182951,-118.462801
+14215 West Devonshire St., Pacoima, CA 91331,34.25765,-118.444422
+10230 Woodman Ave., Panorama City, CA 91345,34.257482,-118.454235
+1772 N. Spring St., Los Angeles, CA 90031,34.070972,-118.223929
+North of Ventura Fwy and South of Valle Vista,34.160276,-118.634657
+2500 N. Eastlake Ave., Los Angeles, CA 90031,34.07553,-118.207803
+1300 E. O St., Wilmington, CA 90744,33.792257,-118.248011
+1632 Bellevue Ave., Los Angeles, CA 90026,34.06978,-118.260059
+11820 Reseda Blvd., Reseda, CA 91335,34.212338,-118.535531
+3300 Cahuenga Blvd., Los Angeles, CA 90068,34.131099,-118.350366
+4410 Garden Homes Ave., Los Angeles, CA 90032,34.097413,-118.168416
+835 Academy Rd., Los Angeles, CA 90012,34.081139,-118.248069
+16821 Burbank Blvd., Encino, CA 91436,34.170261,-118.49725
+16953 Ventura Blvd., Encino, CA 91316,34.159602,-118.502487
+4235 Montery Rd., Los Angeles, CA 90032,34.091036,-118.193557
+Erwin St. and Ethel Ave., Van Nuys, CA 91436,34.183045,-118.418152
+One block North of Sunset Echo Park, Los Angeles, CA 90026,34.072625,-118.251504
+701 State Drive, Los Angeles, CA 90037,34.016524,-118.28437
+125 Paseo De La Plaza, Los Angeles, CA 90012,34.056782,-118.238086
+9521 Tujunga Canyon Blvd., Tujunga, CA 91042,34.244629,-118.275803
+Corner of Gaffey Street and Westmont, San Pedro, CA 90731,33.763912,-118.293401
+7747 Foothill Blvd., Sunland, CA 91042,34.257828,-118.30091
+Melba Ave. & Cohasset St., West Hills, CA 91307,34.205961,-118.634422
+Ave. 63 & Meridian St., Los Angeles, CA 90042,34.120119,-118.178611
+2330 S. Genesee, Los Angeles, CA 90016,34.037664,-118.368389
+16953 Ventura Blvd., Encino, CA 91316,34.159602,-118.502487
+Harbor Blvd., between 5th/6th., Los Angeles, CA,34.052234,-118.243685
+3650 Verdugo Rd., Los Angeles, CA 90065,34.116107,-118.233616
+2932 Glenhurst, Los Angeles, CA 90039,34.110604,-118.252766
+10726 S. Grape St., Los Angeles, CA 90059,33.938135,-118.236901
+Figueroa and Marmion Way, Los Angeles, CA 90065,34.090979,-118.211307
+4730 Crystal Springs Dr., Los Angeles, CA 90027,34.135369,-118.282042
+South Terminus Haines Canyon Ave., Tujunga, CA 91042,34.247564,-118.279452
+24901 Frampton Ave., Harbor City, CA 90710,33.79858,-118.299168
+825 Capitol Dr., San Pedro, CA 90731,33.758608,-118.295603
+890 Lucerne Ave., Los Angeles, CA 90016,34.035011,-118.342806
+8341 De Longpre Ave., Los Angeles, CA 90069,34.09531,-118.3717
+Hartland / Woodman, Van Nuys, CA 91405,34.194815,-118.430868
+2230 Norfolk St., Los Angeles, CA 90033,34.060855,-118.202569
+5566 Via Marisol, Los Angeles, CA 90042,34.104356,-118.186043
+6150 Piedmont Ave., Los Angeles, CA 90042,34.113312,-118.187967
+On Hillhurst Ave. b/w Los Feliz & Franklin, Los Angeles, CA 90027,34.122055,-118.293589
+415 S. St. Louis St., Los Angeles, CA 90033,34.041481,-118.216267
+601 Clubview Dr., Los Angeles, CA 90024,34.072861,-118.429432
+Hoover-Gage Park, Los Angeles, CA 90044,33.982169,-118.287469
+843 S. Bonnie Brae St., Los Angeles, CA 90057,34.052876,-118.276612
+4800 S. La Brea, Los Angeles, CA 90008,34.002396,-118.358944
+7747 Foothill Blvd., Sunland, CA 91042,34.257828,-118.30091
+12560 Fillmore St., Los Angeles, CA 90046,34.281373,-118.406455
+2599 Beverwil Dr., Los Angeles, CA 90034,34.039429,-118.399181
+7100 White Oak, Reseda, CA 91406,34.201078,-118.518584
+12467 W. Osborne, Pacoima, CA 91331,34.259498,-118.405387
+3601 S. Gaffey St., San Pedro, CA 90731,33.712382,-118.294145
+4800 South Hoover, Los Angeles, CA 90037,33.999626,-118.287096
+3135 Drew St., Los Angeles, CA 90065,34.118641,-118.246059
+11435 Kagel Canyon St., Los Angeles, CA 91342,34.280566,-118.380553
+25820 S. Vermont Ave., Harbor City, CA 90710,33.790987,-118.291623
+Lanark St. & Shelby Pl., Los Angeles, CA 90041,34.135683,-118.187396
+Kittridge & Greenbush, Van Nuys, CA 91401,34.190315,-118.425794
+25000 Kittridge, West Hills, CA 91307,34.190465,-118.662906
+4625 West Olympic Blvd, Los Angeles, CA 90019,34.057294,-118.331494
+Ave. 26 & Lacy St. (Next to the Pasadena Fwy.),FAILED,FAILED
+6300 Balboa Blvd., Van Nuys, CA 91406,34.1814,-118.498471
+3160 Canyon Dr., Los Angeles, CA 90027,34.126658,-118.311536
+227 N. Lake St., Los Angeles CA 90026,34.069125,-118.270075
+Lanark St. & Shelby Pl., Los Angeles, CA 90041,34.135683,-118.187396
+1st St. and Chicago St., Los Angeles, CA 90033,34.044381,-118.212526
+Latham & 53rd St., Los Angeles, CA 90011,33.994839,-118.251429
+8260 Mulholland Dr., Los Angeles, CA 90046,34.122759,-118.375802
+Ingomar & Valley Circle, Los Angeles, CA,34.211816,-118.646321
+4395 Leimert Blvd., Los Angeles, CA 90008,34.004291,-118.330673
+863 S. Herber Ave., San Pedro, CA 90731,33.751478,-118.29599
+5101 Libbit Ave., Encino, CA 91436,34.16461,-118.488033
+835 Academy Rd.,Los Angeles, CA 90012,34.081139,-118.248069
+19585 Rinaldi St. Northridge, CA 91326,34.274836,-118.561614
+3501 Valley Blvd., Los Angeles, CA 90031,34.065887,-118.199196
+104th Place and Vermont, Los Angeles, CA 90044,33.941498,-118.29154
+10116 Commerce Ave., Tujunga, CA 91042,34.252818,-118.288623
+Gaffey St. and 36th St., San Pedro, CA 90731,33.711524,-118.292837
+125 Paseo De La Plaza, Los Angeles, CA 90012,34.056782,-118.238086
+7140 Louise Ave., Van Nuys, CA 91406,34.200165,-118.509839
+23936 Highlander Rd., Canoga Park, CA 91307,34.195828,-118.646857
+2230 W. 6th St., Los Angeles, CA 90057,34.060447,-118.277207
+464 North Madison Ave, Los Angeles CA 90004,34.079671,-118.28883
+End of Westridge Rd., Los Angeles, CA 90049,34.073538,-118.501625
+Mascot St. & Pickford St., Los Angeles, CA 90019,34.040831,-118.340787
+10500 Mason Ave., Chatsworth, CA 91311,34.261209,-118.579401
+7570 Mcgroarty Terrace, Tujunga, CA 91042,34.249857,-118.297756
+5250 Mecca Avenue, Tarzana, CA 91356,34.166939,-118.537526
+Culver Blvd. & Venice Blvd., Los Angeles, CA 90232,34.026979,-118.392374
+15174 San Fernando Mission Rd., Mission Hills, CA 91345,34.272753,-118.462257
+On Stadium Between Scott Rd. & Academy Rd.,FAILED,FAILED
+911 North Museum Drive, Los Angeles, CA 90065,34.106995,-118.212711
+West of Tampa Ave. and South of Sesnon, Northridge, CA 91326,34.295611,-118.551086
+12061 Moorpark St., Los Angeles, CA 91604,34.150372,-118.395951
+830 W. 70th St., Los Angeles, CA 90044,33.976234,-118.287946
+3900 W. Chevy Chase Dr., Los Angeles, CA 90039,34.133831,-118.272988
+8756 Parthenia Place, North Hills, CA 91343,34.229475,-118.465874
+17300 Sesnon Blvd., Granada Hills, CA 91344,34.307429,-118.510772
+Occidental St. (Between 6th St. & Beverly Blvd.) Los Angeles, CA,34.076211,-118.32465
+851 Alma Real Dr., Pacific Palisades, CA,34.042184,-118.524561
+2950 Overland Ave., Los Angeles, CA 90064,34.033167,-118.417597
+7600 Beverly Blvd., Los Angeles, CA 90036,34.07558,-118.354149
+4730 Crystal Springs Dr., Los Angeles, CA 90027,34.135369,-118.282042
+21444 Parthenia St., Canoga Park, CA 91304,34.227953,-118.599103
+7570 Mcgroarty Terrace, Tujunga, CA 91042,34.249857,-118.297756
+10731 Laurel Canyon Blvd., Pacoima, CA 91331,34.264653,-118.439068
+560 N. Western Ave., Rancho Palos Verdes, CA 90732,33.749472,-118.304549
+532 S. Olive St., Los Angeles, CA 90012,34.049236,-118.252889
+1827 S. Hoover St., Los Angeles, CA 90006,34.041115,-118.284334
+807 Paseo Del Mar, San Pedro, CA 90731,33.706958,-118.293461
+Reseda Blvd. & Sesnon Blvd., Northridge, CA 91326,34.295661,-118.543727
+PCH Opposite of Will Rogers State Beach, Los Angeles, CA,34.052234,-118.243685
+Echandia & Judson St., Los Angeles, CA 90033,34.05386,-118.216319
+7008 Desoto Ave., Canoga Park, CA 91303,34.197686,-118.588448
+2800 Fowler St., Los Angeles, CA 90033,34.056249,-118.192475
+510 Leland Ave., San Pedro, CA 90732,33.748466,-118.301054
+18411 Victory Blvd., Reseda, CA 91335,34.187385,-118.533908
+2803 Reynier Ave., Los Angeles, CA 90034,34.035797,-118.385992
+Figueroa & 134 Fwy., Los Angeles, CA 90041,34.03619,-118.274875
+2700 Budlong Ave., Los Angeles, CA 90007,34.030453,-118.295876
+10731 Laurel Canyon Blvd., Pacoima, CA 91331,34.264653,-118.439068
+Easterly Terminus of Oracle Pl., Pacific Palisades, CA 90272,34.055537,-118.519321
+Valley Circle Roscoe Blvd., Los Angeles, CA 91307,34.212444,-118.684811
+3606 N. Boundary., Los Angeles, CA 90032,34.088415,-118.19287
+20200 Runnymede St., Winnetka, CA 91306,34.205904,-118.573335
+2000 N. Fuller Ave., Los Angeles, CA 90046,34.105386,-118.349157
+601 Latimer RD., Pacific Palisades, CA 90402,34.039004,-118.514419
+5668 Via Marisol, Los Angeles, CA 90042,34.104007,-118.191562
+7000 S. Beacon St., San Pedro, CA 90731,33.736011,-118.280465
+17500 Mulholland Dr., Los Angeles, CA 90272,34.128811,-118.541742
+Palisades Dr. and De Santa Ynez, Pacific Palisades, CA 90272,34.0704,-118.561778
+2413 Second Ave., Los Angeles, CA 90018,34.034814,-118.31887
+5707 Lexington Ave., Hollywood, CA 90038,34.093064,-118.313993
+6567 Selma Ave. (Corner of Selma and Schrader), Los Angeles, CA 90028,34.101218,-118.325739
+3250 San Marino St., Los Angeles, CA 90006,34.054241,-118.301745
+8756 Parthenia Place, North Hills, CA 91343,34.229475,-118.465874
+20864 Wells Dr., Woodland Hills, CA 91364,34.15879,-118.588361
+22633 Vanowen St., West Hills, CA 91307,34.194566,-118.61998
+2223 W. Jefferson, Los Angeles, CA 90018,34.02585,-118.319688
+On Whitsett Avenue, South of Strathern St., North Hollywood, CA 91605,34.215836,-118.423444
+7020 Franklin Ave., Los Angeles, CA 90028,34.104107,-118.342308
+345 E. 51st St., Los Angeles, CA 90011,33.996562,-118.268606
+Adams Blvd. & Severance St., Los Angeles, CA 90007,34.030351,-118.280889
+13877 Glenoaks Blvd., Sylmar, CA 91342,34.322981,-118.469408
+On Topanga Canyon Blvd. b/w Chatsworth St. & 118 Fwy. Chatsworth, CA 91311,34.250636,-118.61481
+Strathern and Whitsett, North Hollywood, CA 91605,34.215726,-118.405252
+12541 Saticoy St., North Hollywood, CA 91605,34.208488,-118.405608
+12505 Moorpark St. at Whitsett Ave., Los Angeles, CA 91604,34.150697,-118.405524
+Sullivan Canyon, Los Angeles, CA,34.060842,-118.495081
+8133 Vineland Ave., Sun Valley, CA 91352,34.218131,-118.37145
+4702 N. Figueroa, Los Angeles, CA 90042,34.102183,-118.203052
+13109 Borden Ave., Los Angeles, CA 91342,34.308223,-118.445828
+23367 Ingomar St., West Hills, CA 91304,34.211849,-118.637274
+15721 Cobalt Avenue, Symlar, CA 91342,34.304254,-118.473622
+15900 Pacific Coast Hwy., Los Angeles, CA 90272,34.03586,-118.535957
+415 Culver Blvd. at Nicholson St. & Pershing Dr.,,FAILED,FAILED
+9122-9132 Tobias Avenue, Panorama City, CA 91402,34.236053,-118.451612
+Oxford Ave. and Marr St., Venice, CA 90291,33.987562,-118.457635
+24220 1/2 Clarington, Los Angeles, CA 91304,34.207865,-118.652902
+Erwin St. & Ethel Ave., Van Nuys, CA 91436,34.183045,-118.418152
+12240 Archwood St., North Hollywood, CA 91606,34.19202,-118.400257
+170 Fwy. and Burbank/Chandler, North Hollywood, CA 91601,34.16588,-118.363726
+8956 Vanalden, Northridge, CA 91324,34.233327,-118.548716
+15800 Rinaldi Street, Granada Hills, CA 91344,34.279101,-118.475968
+14201 Huston St., Van Nuys, CA 91423,34.159927,-118.442177
+East of Sunland, South of La Tuna Canyon Rd.,34.232802,-118.296455
+1248 W. 47th St., Los Angeles, CA 90037,34.000618,-118.297065
+11117 Victory Blvd., North Hollywood, CA 91606,34.187151,-118.372929
+Viking and Nau, Northridge, CA 91326,34.279843,-118.545231
+9401 Villa Cabrini Dr., West Los Angeles, CA 91504,34.214444,-118.338699
+Century and Vista Del Mar Blvd., Playa Del Rey, CA 90293,33.955891,-118.447466
+100 N., Toluca St., Los Angeles, CA 90026,34.061957,-118.257946
+21820 Califa Ave. (5800 Topanga Canyon Blvd.),34.208282,-118.605892
+5800 Topanga Canyon Blvd., Woodland Hills, CA 91367,34.176512,-118.603506
+4103 W. Washington Blvd., Los Angeles, CA 90018,34.040154,-118.328585
+1850 N. Curson Ave., Los Angeles, CA 90046,34.104922,-118.355026
+10844 Acama Dr., Los Angeles, CA 91602,34.145753,-118.367128
+10800 Valley Heart Dr., Los Angeles, CA 91602,34.144029,-118.366668
+6731 Wilbur Ave., Reseda, CA 91335,34.192614,-118.544782
+3085 Clyde Ave., Los Angeles, CA 90016,34.026374,-118.368591
+Paseo Del Mar & Western Ave., San Pedro, CA 90731,33.718873,-118.32013
+12240 Archwood St., North Hollywood, CA 91605,34.19202,-118.400257
+12601 Mulholland Dr. (adjacent to Coldwater Canyon Park),41.716514,-73.924225
+12001 Wilbur Ave., Northridge, CA 91326,34.289422,-118.557131
+607 Paseo Del Mar, San Pedro, CA 90731,33.705958,-118.291503
+Avalon Place & I Street Wilmington, CA 90744,33.781259,-118.261865
+3409 Vinton Ave., Los Angeles, CA 90034,34.028106,-118.408333
+11240 Moorpark St., Los Angeles, CA 91602,34.15036,-118.375536
+Woodley Ave. and Victory Blvd., Van Nuys, CA 91411,34.18679,-118.452919
+6671 Yucca St., Los Angeles, CA 90028,34.103366,-118.335042
+11690 Zelzah Ave., Granada Hills, CA 91344,34.282354,-118.525421
